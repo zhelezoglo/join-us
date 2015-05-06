@@ -1,6 +1,6 @@
 # Simple data processing app
 
-**Using this simple data set **
+**Using this simple data set**
 
 ```javascript
 data = [
