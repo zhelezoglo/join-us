@@ -5,5 +5,5 @@
 - joins the two datasets into one
 - adds an additional computed column `profit = revenue - costs` to the dataset
 - has one "page" showing a table with the data (ideally sortable by any column)
-- has one "page" displaying a line chart with the data (ideally using d3)
+- has one "page" displaying a line chart with the data (using https://github.com/danielgindi/ios-charts or something similar)
 - has some test coverage
